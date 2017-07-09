@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://srheden.github.io/grocerystories/posts/the-start-world-foods/</loc>
+    <lastmod>2017-07-07T08:37:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srheden.github.io/grocerystories/about/grocery-stories/</loc>
+    <lastmod>2017-01-01T08:37:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srheden.github.io/grocerystories/about/</loc>
+    <lastmod>2017-01-01T08:37:49+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://srheden.github.io/grocerystories/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://srheden.github.io/grocerystories/tags/greengrocer/</loc>
+    <lastmod>2017-07-07T08:37:49+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://srheden.github.io/grocerystories/tags/grocery-store/</loc>
+    <lastmod>2017-07-07T08:37:49+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://srheden.github.io/grocerystories/</loc>
+    <lastmod>2017-07-07T08:37:49+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://srheden.github.io/grocerystories/categories/places/</loc>
+    <lastmod>2017-07-07T08:37:49+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://srheden.github.io/grocerystories/tags/portland/</loc>
+    <lastmod>2017-07-07T08:37:49+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://srheden.github.io/grocerystories/posts/</loc>
+    <lastmod>2017-07-07T08:37:49+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://srheden.github.io/grocerystories/tags/</loc>
+    <lastmod>2017-07-07T08:37:49+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
