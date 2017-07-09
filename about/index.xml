@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on Grocery Stories</title>
-    <link>https://srheden.github.io/grocerystories/about/</link>
+    <link>http://grocerystories.net/about/</link>
     <description>Recent content in Abouts on Grocery Stories</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 01 Jan 2017 08:37:49 +0100</lastBuildDate>
     
-	<atom:link href="https://srheden.github.io/grocerystories/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://grocerystories.net/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Grocery Stories</title>
-      <link>https://srheden.github.io/grocerystories/about/grocery-stories/</link>
+      <link>http://grocerystories.net/about/grocery-stories/</link>
       <pubDate>Sun, 01 Jan 2017 08:37:49 +0100</pubDate>
       
-      <guid>https://srheden.github.io/grocerystories/about/grocery-stories/</guid>
+      <guid>http://grocerystories.net/about/grocery-stories/</guid>
       <description>Hello. I&amp;rsquo;m Sarah Eden. Grocery Stories is about community and food. It started out mostly about grocery stores — places I&amp;rsquo;ve been interested ever since shopping at and then working in a family-run Lebanese grocery store as a teenager — but then it grew because getting the ingredients is only the middle.
 You&amp;rsquo;ll find stories here about the people, stores, cafés, and restaurants I love most, in London and in places I visit.</description>
     </item>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Places on Grocery Stories</title>
-    <link>https://srheden.github.io/grocerystories/categories/places/</link>
+    <link>http://grocerystories.net/categories/places/</link>
     <description>Recent content in Places on Grocery Stories</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 07 Jul 2017 08:37:49 +0100</lastBuildDate>
     
-	<atom:link href="https://srheden.github.io/grocerystories/categories/places/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://grocerystories.net/categories/places/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The start: Barbur World Foods</title>
-      <link>https://srheden.github.io/grocerystories/posts/the-start-world-foods/</link>
+      <link>http://grocerystories.net/posts/the-start-world-foods/</link>
       <pubDate>Fri, 07 Jul 2017 08:37:49 +0100</pubDate>
       
-      <guid>https://srheden.github.io/grocerystories/posts/the-start-world-foods/</guid>
+      <guid>http://grocerystories.net/posts/the-start-world-foods/</guid>
       <description>A good grocery store tells you something about the community in which it’s situated. Every shop carries a version of the basics: fresh produce, grains, soft drinks, canned goods, and snacks. But maybe the owners are Lebanese or Korean or Indian and so you’ll find, based on their cultural and culinary backgrounds, goods the owners see as essential on the shelves as well. At the same time, owners stock their stores according to the needs and desires of people who live in the vicinity.</description>
     </item>
     
