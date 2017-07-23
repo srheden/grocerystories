@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bread on Grocery Stories</title>
+    <link>http://grocerystories.net/tags/bread/</link>
+    <description>Recent content in Bread on Grocery Stories</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 17 Jul 2017 15:18:49 +0100</lastBuildDate>
+    
+	<atom:link href="http://grocerystories.net/tags/bread/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Breaking bread</title>
+      <link>http://grocerystories.net/places/breaking-bread/</link>
+      <pubDate>Mon, 17 Jul 2017 15:18:49 +0100</pubDate>
+      
+      <guid>http://grocerystories.net/places/breaking-bread/</guid>
+      <description>I watched a TV show as a kid that featured a monk happily making bread, folding and kneading away in his black robe, and I&amp;rsquo;ve been on a quest to make good bread myself ever since. That quest involved a lot of reading and failed attempts at home before I finally sought the help of professionals.
+With a lot of classes I&amp;rsquo;ve tried, I managed to make an OK loaf on the day, but then failed when trying to follow the whole process at home.</description>
+    </item>
+    
+  </channel>
+</rss>

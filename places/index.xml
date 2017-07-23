@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Places on Grocery Stories</title>
+    <link>http://grocerystories.net/places/</link>
+    <description>Recent content in Places on Grocery Stories</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 17 Jul 2017 15:18:49 +0100</lastBuildDate>
+    
+	<atom:link href="http://grocerystories.net/places/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Breaking bread</title>
+      <link>http://grocerystories.net/places/breaking-bread/</link>
+      <pubDate>Mon, 17 Jul 2017 15:18:49 +0100</pubDate>
+      
+      <guid>http://grocerystories.net/places/breaking-bread/</guid>
+      <description>I watched a TV show as a kid that featured a monk happily making bread, folding and kneading away in his black robe, and I&amp;rsquo;ve been on a quest to make good bread myself ever since. That quest involved a lot of reading and failed attempts at home before I finally sought the help of professionals.
+With a lot of classes I&amp;rsquo;ve tried, I managed to make an OK loaf on the day, but then failed when trying to follow the whole process at home.</description>
+    </item>
+    
+    <item>
+      <title>A Grocery Story</title>
+      <link>http://grocerystories.net/places/a-grocery-story/</link>
+      <pubDate>Sun, 09 Jul 2017 21:32:49 +0100</pubDate>
+      
+      <guid>http://grocerystories.net/places/a-grocery-story/</guid>
+      <description>Grocery stores began to pique my interest as a teenager when the local shop of my youth, Barbur Foods in SW Portland, Oregon, changed hands and the aisles transformed. I remember going into the store as a kid, hand in my dad’s big hand, for a pack of Winston cigarettes, a box of Cheerios, and a stop in front of their two “foreign food” shelves to pick up Jacob’s crackers or Keiller’s marmalade, products my dad missed from home.</description>
+    </item>
+    
+  </channel>
+</rss>

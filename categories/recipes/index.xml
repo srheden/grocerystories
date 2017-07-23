@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recipes on Grocery Stories</title>
+    <link>http://grocerystories.net/categories/recipes/</link>
+    <description>Recent content in Recipes on Grocery Stories</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 16 Jul 2017 18:57:15 +0100</lastBuildDate>
+    
+	<atom:link href="http://grocerystories.net/categories/recipes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pasticcini di mandorle</title>
+      <link>http://grocerystories.net/recipes/pasticcini-di-mandorle/</link>
+      <pubDate>Sun, 16 Jul 2017 18:57:15 +0100</pubDate>
+      
+      <guid>http://grocerystories.net/recipes/pasticcini-di-mandorle/</guid>
+      <description>I like to make notes in my cookbooks to remind myself of what went right and wrong with the recipe. Lower heat next time. Don&amp;rsquo;t forget the baking powder! Even better the day after. After I&amp;rsquo;ve made a recipe a number of times or generally feel I&amp;rsquo;ve got the hang of it, I just put a tick beside the title. My pages of Rachel Roddy&amp;rsquo;s Five Quarters: Recipes and Notes from A Kitchen in Rome are full of tick marks and pasticcini di mandorle — soft almond biscuits — has six of them.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Grocery Stories</title>
+    <link>http://grocerystories.net/pages/</link>
+    <description>Recent content in Pages on Grocery Stories</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 16 Jul 2017 17:10:56 +0100</lastBuildDate>
+    
+	<atom:link href="http://grocerystories.net/pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://grocerystories.net/pages/about/</link>
+      <pubDate>Sun, 16 Jul 2017 17:10:56 +0100</pubDate>
+      
+      <guid>http://grocerystories.net/pages/about/</guid>
+      <description>Hello. I&amp;rsquo;m Sarah Eden. Grocery Stories is about community and food. It started out mostly about grocery stores — places I&amp;rsquo;ve been interested ever since shopping at and working in a family-run Lebanese grocery store as a teenager — but then it grew because getting the ingredients is only the middle.
+You&amp;rsquo;ll find stories here about the people, stores, cafés, and restaurants I love most, in London and in places I visit.</description>
+    </item>
+    
+  </channel>
+</rss>
