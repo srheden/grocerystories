@@ -6,37 +6,10 @@
     <description>Recent content in Tags on Grocery Stories</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 17 Jul 2017 15:18:49 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 09 Jul 2017 21:32:49 +0100</lastBuildDate>
     
 	<atom:link href="http://grocerystories.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Baking</title>
-      <link>http://grocerystories.net/tags/baking/</link>
-      <pubDate>Mon, 17 Jul 2017 15:18:49 +0100</pubDate>
-      
-      <guid>http://grocerystories.net/tags/baking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bread</title>
-      <link>http://grocerystories.net/tags/bread/</link>
-      <pubDate>Mon, 17 Jul 2017 15:18:49 +0100</pubDate>
-      
-      <guid>http://grocerystories.net/tags/bread/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Class</title>
-      <link>http://grocerystories.net/tags/class/</link>
-      <pubDate>Sat, 22 Jul 2017 08:37:49 +0100</pubDate>
-      
-      <guid>http://grocerystories.net/tags/class/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Greengrocer</title>
@@ -57,29 +30,11 @@
     </item>
     
     <item>
-      <title>London</title>
-      <link>http://grocerystories.net/tags/london/</link>
-      <pubDate>Sat, 22 Jul 2017 08:37:49 +0100</pubDate>
-      
-      <guid>http://grocerystories.net/tags/london/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Portland</title>
       <link>http://grocerystories.net/tags/portland/</link>
       <pubDate>Sun, 09 Jul 2017 21:32:49 +0100</pubDate>
       
       <guid>http://grocerystories.net/tags/portland/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sourdough</title>
-      <link>http://grocerystories.net/tags/sourdough/</link>
-      <pubDate>Sat, 22 Jul 2017 08:37:49 +0100</pubDate>
-      
-      <guid>http://grocerystories.net/tags/sourdough/</guid>
       <description></description>
     </item>
     
