@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cooking on Grocery Stories</title>
+    <link>http://grocerystories.net/tags/cooking/</link>
+    <description>Recent content in Cooking on Grocery Stories</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 28 Jul 2017 22:43:53 +0100</lastBuildDate>
+    
+	<atom:link href="http://grocerystories.net/tags/cooking/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sugar snap, please</title>
+      <link>http://grocerystories.net/posts/sugar-snap-peas-with-mustard-seeds-and-tarragon/</link>
+      <pubDate>Fri, 28 Jul 2017 22:43:53 +0100</pubDate>
+      
+      <guid>http://grocerystories.net/posts/sugar-snap-peas-with-mustard-seeds-and-tarragon/</guid>
+      <description>It&amp;rsquo;s a Saturday in May. Find yourself in Portland, Oregon at the PSU Farmers Market. Stop by Groundwork Organics&amp;rsquo;s stall and, casting aside the umbrella you thought would be necessary for visiting this city, buy as many sugar snap peas as you can carry. Pick a tree to lean on and crack open the peas, delight at the snapping and occasional pea popping, and eat the pods whole.
+A time may come when you feel like eating something other than sugar snap peas alone.</description>
+    </item>
+    
+  </channel>
+</rss>

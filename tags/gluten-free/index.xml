@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gluten Free on Grocery Stories</title>
+    <link>http://grocerystories.net/tags/gluten-free/</link>
+    <description>Recent content in Gluten Free on Grocery Stories</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 24 Sep 2017 10:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="http://grocerystories.net/tags/gluten-free/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chocolate Beetroot Cake</title>
+      <link>http://grocerystories.net/posts/chocolate-beetroot-cake/</link>
+      <pubDate>Sun, 24 Sep 2017 10:00:00 +0100</pubDate>
+      
+      <guid>http://grocerystories.net/posts/chocolate-beetroot-cake/</guid>
+      <description>While at university in 2012, my friend Daniella and I started a blog called Shitty Photos of OK Food. There&amp;rsquo;s a lot that makes me smile on there, but it&amp;rsquo;s the documented experience of cooking regularly and sometimes competitively with a great friend that I&amp;rsquo;m especially glad to have.
+Chocolate beetroot cake really caught my attention that year, and has done ever since. If you don&amp;rsquo;t know, let me tell you: chocolate and beets combined are delicious.</description>
+    </item>
+    
+  </channel>
+</rss>

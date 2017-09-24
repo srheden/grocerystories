@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pizza on Grocery Stories</title>
+    <link>http://grocerystories.net/tags/pizza/</link>
+    <description>Recent content in Pizza on Grocery Stories</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 10 Jul 2017 08:37:49 +0100</lastBuildDate>
+    
+	<atom:link href="http://grocerystories.net/tags/pizza/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Radio Alice pizzeria masterclass</title>
+      <link>http://grocerystories.net/posts/radio-alice-pizzeria-masterclass/</link>
+      <pubDate>Mon, 10 Jul 2017 08:37:49 +0100</pubDate>
+      
+      <guid>http://grocerystories.net/posts/radio-alice-pizzeria-masterclass/</guid>
+      <description>If you&amp;rsquo;ve had Radio Alice pizza (or pizza from their sister pizzerias in Italy at Berberè), you&amp;rsquo;ll already have asked yourself the question, &amp;lsquo;how do they make it so good?&amp;rsquo; Learn the answer to this question, enjoy pizza and wine on the day, and take home a starter to practice at home &amp;ndash; all for a steal at £15. Find out when their next masterclass is on here.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,8 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://grocerystories.net/posts/chocolate-beetroot-cake/</loc>
+    <lastmod>2017-09-24T10:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://grocerystories.net/posts/paradise-garden/</loc>
     <lastmod>2017-09-06T21:49:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://grocerystories.net/posts/newington-green-fruit-and-veg/</loc>
+    <lastmod>2017-07-31T08:37:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://grocerystories.net/posts/sugar-snap-peas-with-mustard-seeds-and-tarragon/</loc>
+    <lastmod>2017-07-28T22:43:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://grocerystories.net/posts/e5-bakehouse-bread-making-class/</loc>
+    <lastmod>2017-07-22T08:37:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://grocerystories.net/posts/puntarelle-and-co/</loc>
+    <lastmod>2017-07-21T08:37:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://grocerystories.net/posts/breaking-bread/</loc>
+    <lastmod>2017-07-17T15:18:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://grocerystories.net/posts/pasticcini-di-mandorle/</loc>
+    <lastmod>2017-07-16T18:57:15+01:00</lastmod>
   </url>
   
   <url>
@@ -12,12 +47,64 @@
   </url>
   
   <url>
+    <loc>http://grocerystories.net/posts/yildiz/</loc>
+    <lastmod>2017-07-14T08:37:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://grocerystories.net/posts/radio-alice-pizzeria-masterclass/</loc>
+    <lastmod>2017-07-10T08:37:49+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://grocerystories.net/posts/a-grocery-story/</loc>
     <lastmod>2017-07-09T21:32:49+01:00</lastmod>
   </url>
   
   <url>
+    <loc>http://grocerystories.net/tags/baking/</loc>
+    <lastmod>2017-07-17T15:18:49+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grocerystories.net/tags/bread/</loc>
+    <lastmod>2017-07-17T15:18:49+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://grocerystories.net/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grocerystories.net/tags/class/</loc>
+    <lastmod>2017-07-22T08:37:49+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grocerystories.net/tags/cooking/</loc>
+    <lastmod>2017-07-28T22:43:53+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grocerystories.net/tags/dessert/</loc>
+    <lastmod>2017-09-24T10:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grocerystories.net/categories/events/</loc>
+    <lastmod>2017-07-22T08:37:49+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grocerystories.net/tags/gluten-free/</loc>
+    <lastmod>2017-09-24T10:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -35,7 +122,7 @@
   
   <url>
     <loc>http://grocerystories.net/</loc>
-    <lastmod>2017-09-06T21:49:49+01:00</lastmod>
+    <lastmod>2017-09-24T10:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -52,6 +139,12 @@
   </url>
   
   <url>
+    <loc>http://grocerystories.net/tags/pizza/</loc>
+    <lastmod>2017-07-10T08:37:49+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://grocerystories.net/categories/places/</loc>
     <lastmod>2017-09-06T21:49:49+01:00</lastmod>
     <priority>0</priority>
@@ -59,19 +152,37 @@
   
   <url>
     <loc>http://grocerystories.net/tags/portland/</loc>
-    <lastmod>2017-07-09T21:32:49+01:00</lastmod>
+    <lastmod>2017-07-28T22:43:53+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://grocerystories.net/posts/</loc>
-    <lastmod>2017-09-06T21:49:49+01:00</lastmod>
+    <lastmod>2017-09-24T10:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grocerystories.net/tags/recipe/</loc>
+    <lastmod>2017-09-24T10:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grocerystories.net/categories/recipes/</loc>
+    <lastmod>2017-09-24T10:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://grocerystories.net/tags/sourdough/</loc>
+    <lastmod>2017-07-22T08:37:49+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://grocerystories.net/tags/</loc>
-    <lastmod>2017-09-06T21:49:49+01:00</lastmod>
+    <lastmod>2017-07-17T15:18:49+01:00</lastmod>
     <priority>0</priority>
   </url>
   
