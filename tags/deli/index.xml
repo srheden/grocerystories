@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deli on Grocery Stories</title>
+    <link>http://grocerystories.net/tags/deli/</link>
+    <description>Recent content in Deli on Grocery Stories</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 20 Oct 2017 10:32:49 +0100</lastBuildDate>
+    
+	<atom:link href="http://grocerystories.net/tags/deli/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>I Camisa</title>
+      <link>http://grocerystories.net/posts/i-camisa/</link>
+      <pubDate>Fri, 20 Oct 2017 10:32:49 +0100</pubDate>
+      
+      <guid>http://grocerystories.net/posts/i-camisa/</guid>
+      <description>When Cristina Onuta first entered I Camisa &amp;amp; Son in 1999, the shop still had sawdust on the floors — to prevent people from slipping after rain — and cured sausages dangling from the ceiling. While regulations have put an end to these trademarks, little else about the shop has changed since it opened in Soho in 1961.
+At age 20, Cristina Onuta left Romania to take a six-month English course in London.</description>
+    </item>
+    
+  </channel>
+</rss>
